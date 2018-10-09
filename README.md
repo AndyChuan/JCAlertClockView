@@ -1,3 +1,3 @@
 # JCAlertClockView
-仿照iOS 系统就寝提示实现可滑动表盘效果
-Implement sliding dial effect by following the iOS system bedtime prompt
+模仿iOS系统就寝里面表盘效果，可以进行两端拖动，中部滑动操作，可自定义时间间隔 
+It can achieve the dial effect in the sleep of iOS system, drag at both ends, slide in the middle, and customize the time interval.
